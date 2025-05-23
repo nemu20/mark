@@ -1,0 +1,3 @@
+deuda=100000
+def situacion_tarjeta():
+    print("hola bienvenido a banco goku")
