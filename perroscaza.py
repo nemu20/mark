@@ -16,4 +16,5 @@ if conejos>=cantmin:
     print("genial sus perros son fascinantes merecen sus filetes")
 else:
     print("mal ahi no merecen sus chuletas no cumplieron con el objetivo")
+
     XD=str(input("quiere sacrificarlos?"))
